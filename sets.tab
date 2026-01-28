@@ -1,0 +1,141 @@
+# this is the list of zenodo sets that we monitor/download
+user-sciops2015   # ESO/ESA Sciops 2015 (library@eso.org)
+user-xrayvision   # X-Ray Vision Workshop (CE)
+user-planet-formation2016 # ESO/NRAO Workshop on Resolving planet formation in the era of ALMA and extreme AO (Uta)
+user-agn2016 # Active Galactic Nuclei: what's in a name? (Uta)
+user-cs19 # 19th Cool Stars, Stellar Systems and the Sun (Gregory Feiden, cs19@physics.uu.se)
+user-discs2016    # Discs in Galaxies - Uta 11/7/16
+user-agn12    # AGN 2012 (demetra.decicco@unina.it)
+user-band5_2017 # Getting Ready for ALMA Band 5 - Synergy with APEX/SEPIA ESO Garching, February 1-3, 2017 (Uta)
+user-starformation2017 # Maria Gomez 6/16/17
+user-across2017 # Simona Mei simona.mei@obspm.fr
+user-gcf2017 # Uta 7/25/17
+user-ecogal2017 # Uta 9/28/17
+user-calibration2017 # María Eugenia Góme9/29/17
+user-queso2017 # Uta - 10/28/2017
+user-riajplusedr # Carlos López San Juan <clsj@cefca.es>- 12/5/2017
+user-ewass-ss4-2017 # Sergi and Emmeline
+user-itmmws_iv # Elisabetta Liuzzo <liuzzo@ira.inaf.it>
+user-atlast2018 # Uta Grothkopf <Uta.Grothkopf@eso.org> 2018 Jan 25
+user-arceli # Kelle Cruz and Daina blog archive 2/2018
+user-sd2018 # Uta 3/22/2018
+user-ioss2018 # Uta 4/20/2018
+user-newheights2017 # Uta 5/16/2018
+user-proptool2018 # Uta 6/20/2018
+user-vst2018 # Pietro Schipani <pietro.schipani@oacn.inaf.it> 7/3/2018
+user-diversismundi2018 # Maria Gomez 7/26/18
+user-walk2018 # Karen Olsen <kpolsen@asu.edu> 13 Nov 2018
+user-tcl2018 # Uta 15 Nov 2018
+user-agn_13 # paola.severgnini 3 Dec 2018
+user-jedi2018 # Nisini, Brunella <brunella.nisini@inaf.it>  10 Dec 2018
+user-lisa7-posters # Edwin 10 Jan 2019
+user-lisa8-posters # Edwin 10 Jan 2019
+user-cs20  # Scott Wolk 25 Feb 2019
+user-kmos2018 # Maria Gomez 15 Mar 2019
+user-bashfest2017 # csg 3/28/19
+user-bigskyearth-conference-2018 # csg 3/28/19
+user-neutrino2018 # csg 3/28/19
+user-hitran-13 # csg 3/28/19
+user-hitran10 # csg 3/28/19
+user-hitran11 # csg 3/28/19
+user-hitran9 # csg 3/28/19
+user-crism2018 # csg 3/28/19
+user-quasars2017 # csg 3/28/19
+user-esoaus2019 # Silvia Meakins <smeakins@eso.org> 10 April 2019
+user-galacticbulge2018 # Maria Gomez 17 Apr 2019
+user-eslab53 # jos.de.bruijne@esa.int 31 May 2019
+user-almadevel2019 # Silvia Meakins June 6, 2019
+user-4most2019 # Silvia Meakins June 13, 2019
+user-lasilla2019 # Maria Gomez June 14, 2019
+user-vlt2030 # Silvia Meakins July 31, 2019
+user-stellarhalos2019sexten # Marina Rejkuba, August 19, 2019
+user-mcs2019 # Silvia Meakins October 4, 2019
+user-eeu2019 # Silvia Meakins October 10, 2019
+user-alma2019caligari # Silvia Meakins December 19, 2019
+user-app-iasfmi-2019 # iary.davidzon@nbi.ku.dk
+user-esoaus2020 # Silvia Meakins April 22, 2020
+user-lrp2020 # Pauline Barnby 15 May 2020
+user-vst2021 # Pietro Schipani 29 Jul 2020
+user-h02020 # Leslie Saldias Leslie.Saldias@eso.org 10/14/20
+user-ir2020 # Leslie Saldias Leslie.Saldias@eso.org 11/13/20
+user-planets2020 # Leslie Saldias Leslie.Saldias@eso.org 01/14/2021
+user-astrothesis  # astronomy thesis and dissertations (CE)
+user-nasa-ads # ADS collection (adshelp) 12/21/2020
+user-uves2020 # Leslie Saldias Leslie.Saldias@eso.org 04/06/2021
+user-galspec2021 # Leslie Saldias Leslie.Saldias@eso.org 04/29/2021
+user-hltau2020 # Leslie Saldias Leslie.Saldias@eso.org 05/11/2021
+user-coolstars20half # Scott Wolk 05/17/21
+user-stars-2021 # Alexander Kholtygin 06/24/21
+user-gcf2021 # Leslie.Saldias@eso.org 07/13/21
+user-octopusassembly2021 # Huston, Macy <mzh616@psu.edu>
+user-tsc2 # Avi Shporer shporer@mit.edu
+user-eas2021-a4e # Leonard Burtscher burtscher@strw.leidenuniv.nl
+user-mobster-1 # Alexandre David-Uraz alexandre.daviduraz@howard.edu 09/08/2021
+user-almafed2021 # CSG  and Leslie.Saldias@eso.org 10/19/21
+user-atmo2021 # Leslie.Saldias@eso.org 10/19/21
+user-hypatiacolloquium # Silvia Meakins 10/28/21
+user-spconnection2021 # Leslie.Saldias@eso.org 12/07/21
+user-earth-and-sky # iary.davidzon@nbi.ku.dk 12/20/21
+user-star_clusters_gaia_revolution # CSG 01/31/22
+user-plato2021 # CSG 01/31/22
+user-astro2022 # Leslie.Saldias@eso.org 03/28/22
+user-phost # CSG 03/28/22
+user-ir2022 # @LeoBurtscher 04/26/22
+user-sciops2022 # Leslie.Saldias@eso.org 06/08/22
+user-rosa2022 # Leslie.Saldias@eso.org 06/08/22
+user-bulges2022 # Leslie.Saldias@eso.org 06/08/22
+user-joksfic2022 # Leslie.Saldias@eso.org 06/08/22
+user-notworkshop2022 # Anlaug Amanda Djupvik amanda@not.iac.es
+user-astronomy # nsamba@mpa-garching.mpg.de 10/21/22
+user-gaia2022 # Leslie Saldias 11/25/22
+user-vltihow2022 # Leslie Saldias 11/25/22
+user-solsyselts2022 # Leslie Saldias 11/25/22
+user-peerreview23 # Leslie Kiefer 03/01/23
+user-diskplanets2022 # Leslie Kiefer 03/01/23
+user-superhumps2022 # Leslie Kiefer 03/01/23
+user-mmc2022 # Leslie Kiefer 03/01/23
+user-accrete2022 # Leslie Kiefer 03/01/23
+user-cs21 # Pascal Petit 03/08/23
+user-bars2023 # Dimitri A. Gadotti 09/19/23
+user-notacrowd2023 # Leslie Kiefer 09/29/23
+user-discos2023 # Leslie Kiefer 10/24/23
+user-galacticjourney2023 # Leslie Kiefer 10/24/23
+user-surveys2023 # Leslie Kiefer 10/24/23
+user-spectralfidelity23 # Leslie Kiefer 10/24/23
+user-binaries2023 # Leslie Kiefer 10/24/23
+user-simbio-sys # Michele Zusi 11/22/23
+user-dash2023 # csg 12/22/23
+user-alma2023 # Leslie Kiefer 01/08/24
+user-metals2023 # Leslie Kiefer 01/08/24
+user-pssc23 # csg 01/18/23
+user-binarystars2024 # Leslie Kiefer 02/21/24
+user-lsst2024  # Leslie Kiefer 02/21/24
+user-atlast2024  # Leslie Kiefer 06/21/24
+user-alma-wsu-2024  # Leslie Kiefer 09/05/24
+user-tasc8-kasc15  # tiago.campante@astro.up.pt 9/17/24
+user-tsc3 # jeroena@mit.edu 10/7/24
+user-vlbi-40 # <marcello.giroletti@inaf.it> 11/05/24
+user-appearance-and-dynamics-of-accretion-onto-black-holes # vaclav.pavlik@asu.cas.cz 11/19/24
+user-britestars2024 # werner.weiss@univie.ac.at 12/08/2024
+user-fifth_mm_workshop # csg 01/21/25
+user-cgm-2024 # Leslie Kiefer 01/30/25
+user-galcross2024 # Leslie Kiefer 02/27/25
+user-spf2025 # francesca.bacciotti@inaf.it 03/25/25
+user-coolstars22 # csg
+user-muse2024 # Leslie Kiefer 06/04/25
+user-bruno65 # Leslie Kiefer 06/30/25
+user-helas16-athens2023  # Jeffrey Pomerantz 7/1/2025
+user-helas17-patra2025  # Jeffrey Pomerantz 7/1/2025
+user-tnf2025 # Leslie Kiefer 10/10/2025
+user-lisa10 # Sylvia Meakins 12/0/25
+user-tasc9kasc16 # lisa.bugnet@ist.ac.at 12/18/25
+user-cnops2026 # piercarlo.bonifacio@obspm.fr
+user-stardance_binaries25 # sara.saracino@inaf.it 01/23/26
+#
+# OTHER
+#
+user-cornelldata # MT 10/21/2025
+#
+# LEAVE THIS ENTRY AT THE BOTTOM
+#
+#software # Edwin 9/27/2017

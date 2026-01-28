@@ -1,0 +1,5 @@
+git+https://github.com/adsabs/SciXPipelineUtils@v0.6.1
+Sickle>=0.7.0
+habanero==1.2.6
+namedentities==1.9.4
+validators==0.22.0
